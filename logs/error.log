@@ -1,0 +1,2 @@
+2017/10/05 14:43:01 [emerg] 14251#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/10/05 14:43:41 [error] 14262#0: *1 open() "/home/artsem_makhnach/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
